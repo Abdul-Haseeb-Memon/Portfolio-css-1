@@ -11,7 +11,8 @@ function Herro(){
                  <div className="hero-right">
                     {/* image */}
                     <div className="hero-image-box">
-                       <Image src={"/images/khan78.jpeg"}
+                       <Image src={"/images/haseeb.jpeg"}
+                       
                         width={200}
                         height={200}
                         className="image-hero"
